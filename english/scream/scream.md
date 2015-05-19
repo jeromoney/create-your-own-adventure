@@ -3,6 +3,8 @@ to deal with the situation.
 
 But, first, you need to remove the marshmallow from your mouth.
 
+It tastes like a hairball.
+
 You will do:
 
 [Jump out of joy and eat?](eat/jumpandeat.md)
